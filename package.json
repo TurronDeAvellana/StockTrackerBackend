@@ -1,0 +1,19 @@
+{
+  "name": "stock-tracker-backend",
+  "version": "1.0.0",
+  "description": "Backend for Stock Tracker app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Jordan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "pg": "^8.11.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
