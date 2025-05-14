@@ -6,7 +6,6 @@ Repositorio del BackEnd de la aplicacion StockTracker
 
 Tener pgadmin instalado
 
-npm install express
 
 COMANDOS
 
